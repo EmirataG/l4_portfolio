@@ -1,5 +1,11 @@
 import "./globals.css";
 
+export const metadata = {
+  icons: {
+    icon: "/icon.png",
+  },
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
