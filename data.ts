@@ -201,25 +201,25 @@ Geçen dönem Alonso’nun çalışmaları bana ilham verdi ve müzik dersimin b
 Bu hafta için Garip Akımı tekniklerini kullanarak bir şiir yazın. Orhan Veli'nin İstanbul'u Dinliyorum şiirini okuyun ve sesinizi kaydedin. `,
     name: "El yazmaları",
     title: "Yaprak Sarma",
-    text: `Bezdirme kokusuna uyanıyordum;
-Giyinelip gidiyordum hemen kahvaltıya.
-Neneme eline sağlık deyip çıkıyordum
+    text: `Bezdirme kokusuna uyanıyorum;
+Giyinip gidiyorum hemen kahvaltıya.
+Neneme eline sağlık deyip çıkıyorum
 Kardeşimle futbol oynamaya.
 
-Eğlence içinde zaman uçup gidiyordu;
-Öğle vakit yaprak sarma bizi bekliyordu.
-Yarın da bunu hazırla, diyordum neneme;
-Bayılırdım, bayılırdım, yaprak sarma yemeye.
+Eğlence içinde zaman uçup gidiyor;
+Öğle vakit yaprak sarma bizi bekliyor.
+Yarın da bunu hazırlar mısın, soruyorum neneme;
+Bayılıyorum, bayılıyorum, yaprak sarma yemeye.
 
-Sonra dostlarımla çekirge avlıyorduk;
-Şaka değil bendim o işin uzmanı.
-Kardeşimle tartışıyorduk, dövüşüyorduk
-Ama çabıcıkça geliyordu barış zamanı.
+Sonra dostlarımla çekirge avlıyoruz;
+Şaka değil benim o işin uzmanı.
+Kardeşimle tartışıyoruz, dövüşüyoruz;
+Ama çabıcıkça geliyor barış zamanı.
 
-Eğlence içinde zaman uçup gidiyordu;
-Mis gibi akşam yemeği bizi bekliyordu.
-Öğleden sarma kaldı mı, soruyordum neneme;
-Bayılırdım, bayılırdım, yaprak sarma yemeye.
+Eğlence içinde zaman uçup gidiyor;
+Mis gibi akşam yemeği bizi bekliyor.
+Öğleden sarma kaldı mı, soruyorum neneme;
+Bayılıyorum, bayılıyorum, yaprak sarma yemeye.
 
 Az kaldı yirmiye geçiyorum babaanne;
 Çocukluğumu bıraktım yarım kalmış bir halde.
