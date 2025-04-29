@@ -9,6 +9,7 @@ const nextConfig: NextConfig = {
         hostname: "**", // Allows ANY domain
       },
     ],
+    unoptimized: false,
   },
 };
 
