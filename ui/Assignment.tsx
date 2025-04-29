@@ -3,6 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { GrDocumentSound } from "react-icons/gr";
 
+import WeekNav from "./WeekNav";
+
 export default function Assignment({
   assignment,
 }: {
@@ -16,7 +18,7 @@ export default function Assignment({
   return (
     <div className="flex flex-col gap-6 tracking-wider leading-8">
       <header className="flex justify-between">
-        <h3>{`Hafta ${assignment.id}: ${assignment.name}`}</h3>
+        <WeekNav week={assignment.id} name={assignment.name} />
         {assignment.audioUrl ? (
           <Link
             className="hover:rotate-12 transition-all active:scale-90"

@@ -192,7 +192,8 @@ Geçen dönem Alonso’nun çalışmaları bana ilham verdi ve müzik dersimin b
       "https://i.ytimg.com/vi/WRfsibwR5x4/hqdefault.jpg",
     ],
     center: false,
-    audioUrl: null,
+    audioUrl:
+      "https://drive.google.com/file/d/1jCZUKzHGmGhy7khCqbNqOa68hoqf5cIZ/view?usp=sharing",
   },
   {
     id: "13",
@@ -229,6 +230,7 @@ Az kaldı yirmiye geçiyorum babaanne;
       "https://cookingorgeous.com/wp-content/uploads/2022/01/yaprak-sarma-stuffed-grape-leaves-19-500x500.jpg",
     ],
     center: true,
-    audioUrl: null,
+    audioUrl:
+      "https://drive.google.com/file/d/164X-4aK8dFhvOzbL9LZ5Q1rzq6Lxk6xZ/view?usp=sharing",
   },
 ];

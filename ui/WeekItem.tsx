@@ -13,14 +13,14 @@ export default function WeekItem({
   return (
     <article className="w-full flex gap-4">
       <Link
-        className="p-4 bg-white text-left shadow-md rounded-md transition-all w-full active:bg-slate-100 hover:cursor-pointer hover:scale-103"
+        className="p-4 bg-white text-left shadow-md rounded-md transition-all w-full active:bg-slate-100 hover:cursor-pointer hover:scale-103 active:scale-102"
         href={`/weeks/${week}`}
       >
         <h3>{`Hafta ${week}: ${name}`}</h3>
       </Link>
       {audio ? (
         <Link
-          className="p-2 bg-white shadow-md rounded-md size-14 active:bg-slate-100 hover:cursor-pointer hover:scale-103 flex items-center justify-center"
+          className="p-2 bg-white shadow-md rounded-md size-14 active:bg-slate-100 hover:cursor-pointer hover:scale-103 active:scale-102 flex items-center justify-center transition-all"
           href={audio}
           target="_blank"
         >

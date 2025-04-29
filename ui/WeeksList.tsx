@@ -3,7 +3,7 @@ import WeekItem from "@/ui/WeekItem";
 
 export default function WeeksList({ data }: { data: Array<AssignmentType> }) {
   return (
-    <ul className="flex flex-col gap-3 items-center">
+    <ul className="p-2 flex flex-col gap-3 items-center">
       {data.map((weekData) => (
         <WeekItem
           key={weekData.id}
